@@ -1,4 +1,4 @@
-# insitall npm
+# install npm
 1 npm install at root folder <br/>
 2 npm install at client folder <br/>
 
