@@ -7,7 +7,7 @@
 # Run the project by below command - 
 1 First run mongodb database in your local <br/>
 2 node server.js  at root folder <br/>
-3 npm start at client <br/>
+3 npm start at client folder <br/>
 
 
 # using nodejs reactjs mongodb
