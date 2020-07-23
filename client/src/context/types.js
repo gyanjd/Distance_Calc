@@ -1,0 +1,3 @@
+export const GET_DISTANCE = 'GET_DISTANCE';
+export const ADD_DISTANCE = 'ADD_DISTANCE';
+export const DISTANCE_ERROR = 'DISTANCE_ERROR';
